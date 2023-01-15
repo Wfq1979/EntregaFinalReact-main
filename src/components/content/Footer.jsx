@@ -7,7 +7,7 @@ const Footer = () => {
       <div className='footer'>
 
         <h5 className="card-header">Cerveza Kon</h5>
-        <p className="card-text">Pagina diseñada por Matías Gattari, derechos reservados</p>
+        <p className="card-text">Pagina diseñada por Walter Facundo Quiroga, derechos reservados</p>
       </div>
 
 
