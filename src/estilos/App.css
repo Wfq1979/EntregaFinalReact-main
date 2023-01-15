@@ -1,0 +1,49 @@
+.darkMode {
+    background-color: rgb(82, 69, 69) ;
+    color: rgb(241, 205, 158) ;
+    text-shadow: 2px 2px 2px #000000;
+}   
+
+.infoDetalle {
+    font-weight: bold;
+    font-size: 1.7rem;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    font-size: 3rem;
+}
+
+.botonDetalle{
+    font-size: 1.5rem;
+}
+.botonDetalle:hover {
+	background-color: rgb(240, 80, 101) !important;
+    font-size: 1.9rem;
+    color: rgb(255, 218, 9) !important;
+}
+
+.botonAgregarCarrito{
+    font-size: 1.5rem;
+}
+.botonAgregarCarrito:hover {
+	background-color: rgb(240, 80, 101) !important;
+    color: rgb(255, 218, 9) !important;
+}
+
+.verProductoBoton:hover {
+    background-color: rgb(240, 80, 101) !important;
+    
+    color: rgb(255, 218, 9) !important;
+}
+
+.logo {
+    color: rgb(211, 143, 152)
+}
+.logo:hover{
+    color: rgb(255, 218, 9)
+}
+.rutaDetalle{
+        color: rgb(240, 80, 101)
+}
+

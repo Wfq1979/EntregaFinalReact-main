@@ -1,0 +1,10 @@
+.icono {
+  height: 28px;
+}
+
+body {
+    background-color: rgb(241, 230, 215);
+         color: black;
+      transition: all 1s ease-out;
+  }
+
